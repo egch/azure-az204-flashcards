@@ -1,4 +1,6 @@
 # AZ-204 - Developing Solutions for Microsoft Azure
+## Badge
+[Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/960c8607-7dac-4993-bce4-d38bea513b08/linked_in_profile)
 ## Flash Cards
 [Main](AZ-204.md)
 
